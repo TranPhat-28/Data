@@ -1,4 +1,4 @@
-Timestamp,CanID,DLC,Data_0,Data_1,Data_2,Data_3,Data_4,Data_5,Data_6,Data_7
+Timestamp,CanID,DLC,Data_0,Data_1,Data_2,Data_3,Data_4,Data_5,Data_6,Data_7,Flag
 1513920236.608807,0189,7,8F,FF,0F,FF,2F,FF,2D,R
 1513920236.609048,034C,8,EA,9E,0F,FE,03,FC,00,0C,R
 1513920236.609210,0197,4,00,00,00,00,R
